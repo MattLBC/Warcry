@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-warcry-dev-150724-authRole",
+      "UnauthRoleArn": "arn:aws:iam::374100734514:role/amplify-warcry-dev-150724-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::374100734514:role/amplify-warcry-dev-150724-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-warcry-dev-150724-deployment",
+      "UnauthRoleName": "amplify-warcry-dev-150724-unauthRole",
+      "StackName": "amplify-warcry-dev-150724",
+      "StackId": "arn:aws:cloudformation:eu-west-2:374100734514:stack/amplify-warcry-dev-150724/707d1280-0db5-11ed-9b18-024f3f3a2ff4",
+      "AmplifyAppId": "dd5ya51wb6f8k"
+    },
+    "categories": {
+      "auth": {
+        "warcry6a9b221b": {}
+      },
+      "storage": {
+        "Units": {
+          "tableName": "Units",
+          "region": "eu-west-2",
+          "arn": "arn:aws:dynamodb:eu-west-2:374100734514:table/Units",
+          "partitionKeyName": "Name",
+          "partitionKeyType": "S"
+        }
+      }
+    }
+  }
+}

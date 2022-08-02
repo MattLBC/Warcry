@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "warcry",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/matt/Projects/warcry/amplify/backend/api/warcry/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
